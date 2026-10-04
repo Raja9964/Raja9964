@@ -114,8 +114,7 @@ Bengaluru, India · February 2026 – Present
 
 **Publication**
 
-<!-- TODO: confirm paper title + add IEEE Xplore link -->
-- *Multi-Disease Detection Using Hybrid Models and Transfer Learning*, IEEE ICISC 2025
+- *AI-Driven Multi-Modal Health Risk Assessment*, IEEE ICISC 2025
 
 ---
 
