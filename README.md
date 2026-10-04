@@ -2,7 +2,7 @@
 
 # Raja Mohamad
 
-### Data Engineer · Bengaluru, India
+### Data Engineering Intern · Bengaluru, India
 
 I build reliable ETL pipelines and analytics-ready datasets with Python, SQL and AWS.
 
@@ -18,9 +18,9 @@ I build reliable ETL pipelines and analytics-ready datasets with Python, SQL and
 
 ## About Me
 
-- Data Engineer at **Cuedo Analytics**, building ETL pipelines and a PostgreSQL-to-Amazon Redshift migration on AWS.
+- Data Engineering Intern at **Cuedo Analytics**, building production data pipelines into PostgreSQL and Amazon Redshift.
 - Focus areas: ETL pipelines, data warehousing, data validation and analytics-ready data modeling.
-- Google Cloud certified data engineer and IEEE-published author (details under [Certifications & Publication](#certifications--publication)).
+- AWS Certified Data Engineer – Associate and Google Cloud Professional Data Engineer.
 
 ---
 
@@ -92,36 +92,30 @@ Browser test automation framework.<br/>
 
 ## Experience
 
-### Data Engineer · Cuedo Analytics
+### Data Engineering Intern · Cuedo Analytics
 Bengaluru, India · February 2026 – Present
 
-- Develop ETL pipelines using Python and SQL.
-- Build cloud data migration workflows from PostgreSQL to Amazon Redshift using AWS Glue, AWS DMS and Amazon S3.
-- Validate and reconcile data across PostgreSQL and Redshift.
-- Optimize SQL queries and contribute to analytics-ready datasets.
-- Support cloud-based data engineering solutions in production.
+- Built production data pipelines in Python and SQL to ingest and transform client datasets into PostgreSQL and Amazon Redshift.
+- Developed SQL validation and reconciliation checks across source and target systems (row counts, totals, consistency).
+- Implemented data-quality checks and optimized Redshift queries for analytical workloads.
+- Ran disaster-recovery tests on production workflows and documented pipelines for cross-team handoff.
 
 ---
 
-## Certifications & Publication
+## Certifications
 
-**Certifications**
-
+- AWS Certified Data Engineer – Associate
 - Google Cloud Professional Data Engineer
 - IBM Data Analysis with Python
 - IBM Big Data 101
 - Microsoft Power BI
 
-**Publication**
-
-- *AI-Driven Multi-Modal Health Risk Assessment*, IEEE ICISC 2025
-
 ---
 
 ## Achievements & Education
 
-- 🥉 3rd Place, Code Red Hackathon
-- B.Tech in Computer Science and Engineering, Dayananda Sagar University (CGPA 9.16 / 10)
+- 🥉 3rd Place, Code Red Hackathon (DSU ACM, 2024)
+- B.Tech in Computer Science and Engineering, Dayananda Sagar University, 2022 – 2026 (CGPA 9.16 / 10)
 
 ---
 
