@@ -31,10 +31,12 @@ Lending analytics lakehouse on a **medallion architecture** (Bronze → Silver �
 
 - Idempotent Python ingestion into DuckDB
 - dbt Silver/Gold models, SCD2 snapshot, incremental facts
-- **129 data-quality tests** and run-date-driven backfills
+- **100+ dbt data-quality tests** and run-date-driven backfills
 - Streamlit dashboard: DPD buckets, vintage curves, collection efficiency
 
 <sub><b>Python · dbt · DuckDB · SQL · Streamlit · GitHub Actions</b></sub>
+
+**[▶ Live dashboard](https://raja9964.github.io/LendLake/)** · <a href="https://github.com/Raja9964/LendLake">View code</a>
 
 </td>
 </tr>
@@ -44,14 +46,16 @@ Lending analytics lakehouse on a **medallion architecture** (Bronze → Silver �
 
 **[TaskWeave](https://github.com/Raja9964/TaskWeave)** [![CI](https://github.com/Raja9964/TaskWeave/actions/workflows/ci.yml/badge.svg)](https://github.com/Raja9964/TaskWeave/actions/workflows/ci.yml)<br>
 Task dependency manager with BFS cycle detection that shows the exact loop, recursive status propagation and an interactive graph.<br>
-<sub><b>Django REST · React · TypeScript · React Flow</b></sub>
+<sub><b>Django REST · React · TypeScript · React Flow</b></sub><br>
+<a href="https://raja9964.github.io/TaskWeave/"><b>▶ Live demo</b></a> · <a href="https://github.com/Raja9964/TaskWeave">View code</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/Raja9964/Voyagr"><img src="assets/projects/voyagr.jpg" width="100%" alt="Voyagr trip search"></a>
 
 **[Voyagr](https://github.com/Raja9964/Voyagr)** [![CI](https://github.com/Raja9964/Voyagr/actions/workflows/ci.yml/badge.svg)](https://github.com/Raja9964/Voyagr/actions/workflows/ci.yml)<br>
 Travel booking with overbooking-safe seat reservations (<code>SELECT … FOR UPDATE</code>), proven by a concurrent-booking test.<br>
-<sub><b>React · TypeScript · Express · MySQL</b></sub>
+<sub><b>React · TypeScript · Express · MySQL</b></sub><br>
+<a href="https://raja9964.github.io/Voyagr/"><b>▶ Live demo</b></a> · <a href="https://github.com/Raja9964/Voyagr">View code</a>
 </td>
 </tr>
 <tr>
@@ -60,14 +64,16 @@ Travel booking with overbooking-safe seat reservations (<code>SELECT … FOR UPD
 
 **[SpeakScore](https://github.com/Raja9964/SpeakScore)** [![CI](https://github.com/Raja9964/SpeakScore/actions/workflows/ci.yml/badge.svg)](https://github.com/Raja9964/SpeakScore/actions/workflows/ci.yml)<br>
 Explainable, rubric-driven scoring of spoken self-introductions: speech rate, grammar, vocabulary, clarity and engagement.<br>
-<sub><b>Python · Flask · NLP · VADER</b></sub>
+<sub><b>Python · Flask · NLP · VADER</b></sub><br>
+<a href="https://raja9964.github.io/SpeakScore/"><b>▶ Live demo</b></a> · <a href="https://github.com/Raja9964/SpeakScore">View code</a>
 </td>
 <td width="50%" valign="top">
 <a href="https://github.com/Raja9964/Helping-Hands"><img src="assets/projects/helping-hands.jpg" width="100%" alt="Helping Hands landing page"></a>
 
 **[Helping Hands](https://github.com/Raja9964/Helping-Hands)** [![CI](https://github.com/Raja9964/Helping-Hands/actions/workflows/ci.yml/badge.svg)](https://github.com/Raja9964/Helping-Hands/actions/workflows/ci.yml)<br>
 Donation platform with trackable donation codes, a privacy-safe public timeline and a live admin dashboard.<br>
-<sub><b>Node.js · Express · MongoDB · Server-Sent Events</b></sub>
+<sub><b>Node.js · Express · MongoDB · Server-Sent Events</b></sub><br>
+<a href="https://raja9964.github.io/Helping-Hands/"><b>▶ Live demo</b></a> · <a href="https://github.com/Raja9964/Helping-Hands">View code</a>
 </td>
 </tr>
 <tr>
@@ -76,7 +82,8 @@ Donation platform with trackable donation codes, a privacy-safe public timeline 
 
 **[Pagewright](https://github.com/Raja9964/Pagewright)** [![CI](https://github.com/Raja9964/Pagewright/actions/workflows/ci.yml/badge.svg)](https://github.com/Raja9964/Pagewright/actions/workflows/ci.yml)<br>
 Playwright + TypeScript test framework: page objects, typed fixtures, UI and API suites with schema checks.<br>
-<sub><b>Playwright · TypeScript · GitHub Actions</b></sub>
+<sub><b>Playwright · TypeScript · GitHub Actions</b></sub><br>
+<a href="https://raja9964.github.io/Pagewright/"><b>▶ Live test report</b></a> · <a href="https://github.com/Raja9964/Pagewright">View code</a>
 </td>
 <td width="50%" valign="middle" align="center">
 
