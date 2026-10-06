@@ -1,4 +1,4 @@
-<a href="https://raja9964.github.io"><img src="assets/banner.svg" width="100%" alt="Raja Mohamad, Data Engineering Intern at Cuedo Analytics. Raw data in. Reliable insights out."></a>
+<a href="https://raja9964.github.io"><img src="assets/banner.svg" width="100%" alt="Raja Mohamad, Data Engineer at Cuedo Analytics. Raw data in. Reliable insights out."></a>
 
 <p align="center">
   <a href="https://raja9964.github.io"><img src="https://img.shields.io/badge/Portfolio-raja9964.github.io-2563EB?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio"></a>
@@ -8,7 +8,7 @@
 
 ## About me
 
-I'm a **Data Engineering Intern at Cuedo Analytics** in Bengaluru, building production pipelines in Python and SQL that load client data into PostgreSQL and Amazon Redshift, with validation and reconciliation checks so the numbers can be trusted.
+I'm a **Data Engineer at Cuedo Analytics** in Bengaluru (joined as an intern in Feb 2026, now full-time), building production pipelines in Python and SQL that load client data into PostgreSQL and Amazon Redshift, with validation and reconciliation checks so the numbers can be trusted.
 
 - ☁️ **AWS Certified Data Engineer – Associate** and **Google Cloud Professional Data Engineer**
 - 📄 **2× IEEE published**: healthcare ML ([ICISC 2025](https://ieeexplore.ieee.org/document/11188016)) and multilingual voice AI ([ICEMCSI 2026](https://ieeexplore.ieee.org/document/11602809))
@@ -110,8 +110,8 @@ Experience, publications, certifications<br>and every project in one place.
 
 ## Experience
 
-### Data Engineering Intern · Cuedo Analytics
-<sub>Bengaluru, India · Feb 2026 – Present</sub>
+### Data Engineer · Cuedo Analytics
+<sub>Bengaluru, India · Feb 2026 – Present · joined as a Data Engineering Intern, converted to full-time</sub>
 
 - Built production data pipelines in Python and SQL that ingest and transform client datasets into PostgreSQL and Amazon Redshift.
 - Wrote SQL validation and reconciliation checks across source and target systems (row counts, totals, consistency).
